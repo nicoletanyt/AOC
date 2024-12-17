@@ -1,5 +1,5 @@
 # input.txt
-with open('/Users/nicoletan/Documents/AOC/input.txt') as f:
+with open('input.txt') as f:
     lines = [line.rstrip() for line in f]
 
 # MAX_ROW, MAX_COL = 7, 11
